@@ -1,4 +1,11 @@
 # dumbways_test
+Nama saya Muhammad Rizki Akbar
+untuk pengerjaan soal test ini saya menggunakan : 
+- text-editor https://atom.io/ di Bahasa Pemrograman Web (HTML, CSS, PHP)
+- DMBS (phpmyadmin) MySQL
+- Online Editor https://glot.io/new/javascript untuk Menjalankan JavaScript(JS)
+
+Jawaban :
 
 1. Buatlah sebuah array yang berisi beberapa index string (JS) - https://github.com/rizkyakbar1511/dumbways_test/commit/9fe5264c28a7c4fca97b7952d52b72eef3e1d071
 2. Buatlah sebuah function/method untuk menentukan kembalian yang paling tepat (JS) - https://github.com/rizkyakbar1511/dumbways_test/commit/2f11f577997b45cf8fc8346131fee826a833620d
